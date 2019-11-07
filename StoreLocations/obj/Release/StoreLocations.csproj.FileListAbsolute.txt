@@ -1,0 +1,13 @@
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\bin\Release\StoreLocations.exe.config
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\bin\Release\StoreLocations.exe
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\bin\Release\StoreLocations.pdb
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\bin\Release\Newtonsoft.Json.dll
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\bin\Release\Newtonsoft.Json.xml
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\obj\Release\StoreLocations.csprojAssemblyReference.cache
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\obj\Release\StoreLocations.Form1.resources
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\obj\Release\StoreLocations.Properties.Resources.resources
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\obj\Release\StoreLocations.csproj.GenerateResource.cache
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\obj\Release\StoreLocations.csproj.CoreCompileInputs.cache
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\obj\Release\StoreLocations.csproj.CopyComplete
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\obj\Release\StoreLocations.exe
+D:\projects\sap\StoreLocations\StoreLocations\StoreLocations\obj\Release\StoreLocations.pdb
